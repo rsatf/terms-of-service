@@ -20,7 +20,21 @@ Violations outside these spaces may, in rare cases, affect an individual's abili
 
 ## Violations
 
-The type and degree of action taken for violations is judged on a case-by-case basis at the discretion of the rsa.tf organisation.
+Behaviour rsa.tf will not tolerate includes, but is not limited to:
+
+* cheating/collusion/match-fixing
+* ongoing trash-talk (whether written or spoken)
+* unsportsmanlike behavior
+* inciting or provoking another player
+* doing anything illegal
+* threatening and/or abusive talk or behaviour
+* (c)overtly harassing other players
+* defamatory, sexually-charged, vulgar, obscene, hateful, racially-charged, ethnically, or otherwise objectionable language (whether written or spoken) toward another player
+* names and nicks containing (c)overtly defamatory, sexually-charged, vulgar, obscene, hateful, racially-charged, ethnically, religious, or otherwise objectionable content
+* insulting another player’s culture or religion
+* distributing real world information about another player without their consent
+
+These rules are not typically contravened, but when they are, the type and degree of action taken is judged on a case-by-case basis at the discretion of the rsa.tf organisation.
 
 We weigh the type of violation, whether you are a repeat offender, and other factors.
 
