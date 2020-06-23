@@ -1,5 +1,5 @@
 
-# rsa.tf Terms of Service
+# Terms of Service
 
 The rsa.tf community is actively working to be a welcoming and respectful community, and we want to ensure that doesn't change as we grow and evolve.
 
