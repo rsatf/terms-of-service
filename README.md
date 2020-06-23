@@ -34,9 +34,7 @@ You should understand the following:
 
 ## Reports and Enquiries
 
-If you believe someone is violating the terms of service, we ask that you report it by messaging someone with the @admin role on [Discord](https://rsa.tf/discord).
-
-If you have questions, please feel free to contact anyone with the @admin role on [Discord](https://rsa.tf/discord).
+If you believe someone is violating the terms of service, just have some questions, or are appealing a previous ruling on a violation, please feel free to contact anyone with the @admin role on [Discord](https://rsa.tf/discord).
 
 ## Acknowledgements
 
