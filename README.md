@@ -34,7 +34,7 @@ Behaviour rsa.tf will not tolerate includes, but is not limited to:
 * insulting another player’s culture or religion
 * distributing real world information about another player without their consent
 
-These rules are not typically contravened, but when they are, the type and degree of action taken is judged on a case-by-case basis at the discretion of the rsa.tf organisation.
+Where these rules are contravened, the type and degree of action taken is judged on a case-by-case basis at the discretion of the rsa.tf organisation.
 
 We weigh the type of violation, whether you are a repeat offender, and other factors.
 
