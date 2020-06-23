@@ -24,7 +24,7 @@ Behaviour rsa.tf will not tolerate includes, but is not limited to:
 
 * cheating/collusion/match-fixing
 * ongoing trash-talk (whether written or spoken)
-* unsportsmanlike behavior
+* unsportsmanlike behaviour
 * inciting or provoking another player
 * doing anything illegal
 * threatening and/or abusive talk or behaviour
